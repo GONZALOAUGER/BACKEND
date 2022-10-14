@@ -1,4 +1,4 @@
-## **Backend Coderhouse - Desafío 20 - Clase 40: Mejorar la arquitectura de nuestra api**
+## **Clase 40: Mejorar la arquitectura de nuestra api**
 
 **Consignas:**
  - Modificar la capa de persistencia incorporando los conceptos de Factory, DAO, y DTO.
